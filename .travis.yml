@@ -7,6 +7,8 @@ cache:
   directories:
     - node_modules
 
-script:
-  - npm run lint
-  - npm run test:coverage
+before_script:
+  - npm run build
+
+after_success:
+  - npm run coveralls
