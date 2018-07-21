@@ -2,6 +2,9 @@
 
 #####=== Node ===#####
 
+# stuff
+stuff/
+
 # Logs
 logs
 *.log

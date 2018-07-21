@@ -1,8 +1,5 @@
-# Lyef React Component
-[![Build Status](https://travis-ci.org/lyef/lyef-react-component.svg)](https://travis-ci.org/lyef/lyef-react-component/)
-![Minified component file size](https://badge-size.herokuapp.com/lyef/lyef-react-component/master/dist/Main.min.js.svg)
-![Gziped component file size](https://badge-size.herokuapp.com/lyef/lyef-react-component/master/dist/Main.min.js.svg?compression=gzip)
-[![NPM version](https://badge-me.herokuapp.com/api/npm/lyef-react-component.png)](http://badges.enytc.com/for/npm/lyef-react-component)
+# My React Full header Component
+[![Build Status](https://travis-ci.org/wagnermattos/wm-react-full-header.svg?branch=master)](https://travis-ci.org/wagnermattos/wm-react-full-header)
 
 > An opinionated boilerplate for reusable and declouped react components.
 
