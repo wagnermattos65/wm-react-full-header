@@ -1,6 +1,6 @@
 {
   "name": "wm-react-full-header",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A full header component created with React. Boileplate based on lyef (https://lyef.github.io)",
   "main": "dist/Main.js",
   "scripts": {
