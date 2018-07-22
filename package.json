@@ -1,6 +1,6 @@
 {
   "name": "wm-react-full-header",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A full header component created with React. Boileplate based on lyef (https://lyef.github.io)",
   "main": "dist/Main.js",
   "scripts": {
@@ -21,6 +21,9 @@
     "prepush": "npm run lint && npm test",
     "coveralls": "npm run test:coverage && nyc report --reporter=text-lcov | coveralls"
   },
+  "files": [
+      "dist"
+  ],
   "nyc": {
     "exclude": [
       "tests",
