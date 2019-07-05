@@ -1,6 +1,9 @@
 # My React Full header Component
 [![Build Status](https://travis-ci.org/wagnermattos/wm-react-full-header.svg?branch=master)](https://travis-ci.org/wagnermattos/wm-react-full-header)
 
+[![Coverage Status](https://coveralls.io/repos/github/wagnermattos/wm-react-full-header/badge.svg?branch=master)](https://coveralls.io/github/wagnermattos/wm-react-full-header?branch=master)
+
+
 > An opinionated boilerplate for reusable and declouped react components.
 
 The main idea of this project was based on develop decoupled components in a isolated environment. We don't need to use an entire application to build our components, we just need some place to run and test them.
