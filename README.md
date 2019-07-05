@@ -1,6 +1,5 @@
 # My React Full header Component
 [![Build Status](https://travis-ci.org/wagnermattos/wm-react-full-header.svg?branch=master)](https://travis-ci.org/wagnermattos/wm-react-full-header)
-
 [![Coverage Status](https://coveralls.io/repos/github/wagnermattos/wm-react-full-header/badge.svg?branch=master)](https://coveralls.io/github/wagnermattos/wm-react-full-header?branch=master)
 
 
